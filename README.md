@@ -6,4 +6,4 @@ Developed By Kasra Tahery
 
 Technologies : HTML5 , CSS3
 
-[!Alt]<img width="1366" height="768" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/cc3e87fd-cb36-420e-ac28-efd18508afd6" />
+<img width="1366" height="768" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/cc3e87fd-cb36-420e-ac28-efd18508afd6" />
